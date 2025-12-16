@@ -32,16 +32,6 @@ I believe the best way to learn is by doing. Here's what I'm currently focused o
 
 ---
 
-### 🤝 Let's Connect!
-
-I am always open to collaborating on new projects, sharing knowledge, and discussing technology. Feel free to reach out!
-
-* **Email:** [Your Professional Email Address]
-* **LinkedIn:** [Your LinkedIn Profile URL]
-* **Portfolio:** [Link to your personal website, if you have one!]
-
----
-
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Harsh-Patel-Dev&color=blue" alt="Profile views">
 </p>
