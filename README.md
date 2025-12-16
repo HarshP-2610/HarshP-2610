@@ -10,7 +10,7 @@ I'm an ambitious undergraduate pursuing my **Bachelor of Computer Applications (
 
 | Degree | Institution | Focus | Expected Graduation |
 | :--- | :--- | :--- | :--- |
-| **BCA** | [Sutex Bank College of Computer Applications & Science] |  | 
+| **BCA** | [Sutex Bank College of Computer Applications & Science]
 
 **Relevant Coursework:**
 * **Web Technologies:** Comprehensive study of HTML5, CSS3, and core JavaScript.
