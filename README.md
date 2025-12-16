@@ -6,6 +6,18 @@ I'm an ambitious undergraduate pursuing my **Bachelor of Computer Applications (
 
 ---
 
+### 🎓 Education
+
+| Degree | Institution | Focus | Expected Graduation |
+| :--- | :--- | :--- | :--- |
+| **BCA** | [Sutex Bank College of Computer Applications & Science] |  | 
+
+**Relevant Coursework:**
+* **Web Technologies:** Comprehensive study of HTML5, CSS3, and core JavaScript.
+* **Programming Fundamentals:** Strong foundation in C and C++, and Object-Oriented Programming (OOP).
+* **Database:** Practical knowledge of Database Management Systems (DBMS) and SQL.
+
+---
 ### 🚀 What I'm Building & Learning
 
 I believe the best way to learn is by doing. Here's what I'm currently focused on:
