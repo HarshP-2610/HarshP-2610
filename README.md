@@ -22,15 +22,6 @@ I believe the best way to learn is by doing. Here's what I'm currently focused o
 
 ---
 
-### 🌱 My Current Goals
-
-| Goal Type | Description |
-| :--- | :--- |
-| **Project Focus** | Develop a portfolio website to showcase my best work. |
-| **Skill Acquisition** | Start learning and implementing a modern JavaScript framework (e.g., React or Vue). |
-| **Community** | Actively contribute to at least one open-source project this semester. |
-
----
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Harsh-Patel-Dev&color=blue" alt="Profile views">
