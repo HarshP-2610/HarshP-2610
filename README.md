@@ -30,7 +30,7 @@ I believe the best way to learn is by doing. Here's what I'm currently focused o
 | :--- | :--- |
 | **Web Basics** | HTML5, CSS3, Responsive Design |
 | **Programming** | JavaScript (ES6+), C, C++ |
-| **Tools/Database** | Git, GitHub, VS Code, Basic SQL |
+| **Tools/Database** | Git, GitHub, VS Code, SQL, MongoDB |
 
 ---
 
