@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Harsh Patel
 
-### 🎓 BCA Student | 💻 Aspiring Web Developer
+### 🎓 BCA Student 
 
 I'm an ambitious undergraduate pursuing my **Bachelor of Computer Applications (BCA)**, dedicated to turning innovative ideas into clean, functional code. My passion lies in **Web Development**, and I am actively expanding my skillset to build robust and responsive digital experiences.
 
