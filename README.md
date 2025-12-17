@@ -55,13 +55,6 @@ I'm laying a strong theoretical and practical foundation at:
 
 <div align="center">
 
-## 🤝 Let's Connect!
-
-I am actively looking for opportunities to collaborate on open-source projects or contribute to meaningful web development initiatives. Feel free to reach out!
-
-* **LinkedIn:** [Your LinkedIn Profile URL]
-* **Email:** [Your Professional Email Address]
-* **Portfolio:** [Link to your personal website, if you have one!]
 
 <br>
 
