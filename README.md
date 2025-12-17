@@ -1,8 +1,8 @@
 <div align="center">
   
-# Namaste! I'm Harsh Patel 👋
+# Hii! I'm Harsh Patel 👋
 
-### 🎓 BCA Student | 💻 Aspiring Web Developer
+### 🎓 BCA Student | 
   
 </div>
 
