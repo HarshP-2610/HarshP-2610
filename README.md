@@ -1,101 +1,64 @@
-<!-- HEADER -->
-<h1 align="center">
-  Hi there, I'm Harsh Patel 👋
-</h1>
+<!-- TOP BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Harsh%20Patel&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+</p>
+
+<!-- INTRO -->
+<h3 align="center">
+  👋 Hi, I'm Harsh Patel  
+</h3>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=BCA+Student;Aspiring+Full+Stack+Developer;Java+%7C+Web+Development;Learning+Every+Day+🚀"
-    alt="Typing animation"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&color=00F7FF&lines=BCA+Student;Full+Stack+Developer+in+Progress;Java+%7C+Web+Development;Building+Skills+Everyday+🚀"
   />
 </p>
 
-
-
 ---
 
-## 🎓 About Me
+## ✨ About Me
 
-I am a passionate **BCA Student** who enjoys building software and exploring modern technologies.  
-I love turning ideas into real-world applications and sharpening my problem-solving skills.
-
-- 🔭 Working on **Data Structures & Algorithms**
-- 🌱 Learning **Full Stack Development**
-- 🤝 Open to **Open Source Collaboration**
-- 💬 Ask me about **Java, Web Development, or BCA**
-- ⚡ Fun fact: I love customizing my VS Code setup 😄
+- 🎓 BCA Student  
+- 💻 Passionate about Full Stack Development  
+- 🧠 Focused on DSA & Problem Solving  
+- 🌱 Constantly learning & improving  
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Languages & Tools
-
 <p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+<img src="https://skillicons.dev/icons?i=c,java,html,css,js,mysql,git" />
+
 </p>
 
 ---
 
-## 🚀 Current Focus
+## 🚀 What I'm Doing Now
 
-- 🧠 Improving **problem-solving skills**
-- 🧩 Building **full-stack projects**
-- ✨ Writing **clean & maintainable code**
-- 🌍 Contributing to **open-source**
-
----
-
-## 📌 Project Highlights
-
-- 🔹 **Student Management System**  
-  _Java & MySQL based academic project_
-
-- 🔹 **Portfolio Website**  
-  _Built using HTML, CSS & JavaScript_
-
-- 🔹 **DSA Practice**  
-  _Consistent problem solving & logic building_
-
-> 🚧 More exciting projects coming soon!
-
----
-
-## 🤝 Open for Collaboration
-
-I’m happy to collaborate on:
-- Beginner-friendly **open-source projects**
-- **Java / Web Development** applications
-- Learning-focused coding communities
+- 🔹 Building full-stack projects  
+- 🔹 Writing clean & structured code  
+- 🔹 Practicing Data Structures  
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="45" />
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="45" />
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="mailto:your.email@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="35" width="35" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
 ---
 
-<h3 align="center">
-  🚀 Keep coding. Keep growing. Keep learning.
-</h3>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
