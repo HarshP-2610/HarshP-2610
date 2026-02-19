@@ -28,12 +28,11 @@
 ## 📊 Tech Stack Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshP-2610&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" 
+  />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,mysql,git" />
-</p>
 
 
 ---
