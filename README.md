@@ -25,13 +25,16 @@
 
 ---
 
-## 🛠 Tech Stack
+## 📊 Tech Stack Insights
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,java,html,css,js,mysql,git" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,mysql,git" />
+</p>
+
 
 ---
 
