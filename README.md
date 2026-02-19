@@ -25,12 +25,12 @@
 
 ---
 
-## 📊 Technology Distribution
+## 📊 Tech Stack Insights
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshP-2610&theme=tokyonight" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarshP-2610&theme=tokyonight" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshP-2610&theme=tokyonight" 
+  />
 </p>
 
 
