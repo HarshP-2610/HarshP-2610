@@ -10,7 +10,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&color=00F7FF&lines=BCA+Student;Full+Stack+Developer+in+Progress;Java+%7C+Web+Development;Building+Skills+Everyday+🚀"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&color=00F7FF&lines=BSc.IT+Student;Full+Stack+Developer+in+Progress;Java+%7C+Web+Development;Building+Skills+Everyday+🚀"
   />
 </p>
 
